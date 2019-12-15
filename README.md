@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Midtrans Client - Node JS
 ===============
 [![NPM](https://nodei.co/npm/midtrans-client.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/midtrans-client/)
@@ -446,3 +447,6 @@ There are:
 * [SNAP documentation](http://snap-docs.midtrans.com)
 * [Core API documentation](http://api-docs.midtrans.com)
 * Can't find answer you looking for? email to [support@midtrans.com](mailto:support@midtrans.com)
+=======
+# Midtrans-NodeJS-Client-Transaction
+>>>>>>> 9d84fb660e5eee260c6af2d6f639121a6cd8d013
